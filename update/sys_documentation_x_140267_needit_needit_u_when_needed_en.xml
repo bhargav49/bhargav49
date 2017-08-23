@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_when_needed" label="When needed" language="en" table="x_140267_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <help/>
+            <hint/>
+            <label>When needed</label>
+            <language>en</language>
+            <name>x_140267_needit_needit</name>
+            <plural>When needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 20:24:59</sys_created_on>
+            <sys_id>d95931cddb780300f37255d0cf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>When needed</sys_name>
+            <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_140267_needit_needit_u_when_needed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 20:24:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
