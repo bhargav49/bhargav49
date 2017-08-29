@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_140267_needit_needit">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_other" table="x_140267_needit_needit">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
-        <audit>true</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Other</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,10 +23,10 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_other</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_140267_needit_needit</name>
@@ -46,21 +41,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>4</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-23 18:37:21</sys_created_on>
-        <sys_id>a0b0e105db780300f37255d0cf9619e8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_140267_needit_needit</sys_name>
+        <sys_created_on>2017-08-28 12:46:54</sys_created_on>
+        <sys_id>00700eeadbf80300f37255d0cf96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other</sys_name>
         <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
-        <sys_update_name>sys_dictionary_x_140267_needit_needit_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_140267_needit_needit_u_other</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-23 21:48:51</sys_updated_on>
+        <sys_updated_on>2017-08-28 12:46:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
