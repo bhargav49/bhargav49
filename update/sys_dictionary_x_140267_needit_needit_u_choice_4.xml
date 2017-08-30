@@ -47,15 +47,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-23 20:38:51</sys_created_on>
-        <sys_id>608c7501dbb80300f37255d0cf96195d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>5562c53edb304300f37255d0cf961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>What needed</sys_name>
         <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
         <sys_update_name>sys_dictionary_x_140267_needit_needit_u_choice_4</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-23 20:38:51</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-29 02:54:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

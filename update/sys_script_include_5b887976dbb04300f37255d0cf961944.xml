@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_140267_needit.ValidateEmailAddress</api_name>
+        <client_callable>false</client_callable>
+        <description>On demand script include to validate email address syntax using reqular expressions.</description>
+        <name>ValidateEmailAddress</name>
+        <script><![CDATA[function validateEmailAddress(emailStr){
+	
+
+		// Use JavaScript coercion to guarantee emailStr is a string
+		emailStr = emailStr + '';
+		// Compare emailStr against the allowed syntax as specified in the regular expression
+		// If emailStr has allowed syntax, return true, else return false
+		if(emailStr.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/)){
+			return true;
+		}
+		else {
+		 return false;
+		}
+	}
+	]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 06:55:09</sys_created_on>
+        <sys_id>5b887976dbb04300f37255d0cf961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ValidateEmailAddress</sys_name>
+        <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
+        <sys_update_name>sys_script_include_5b887976dbb04300f37255d0cf961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 06:55:09</sys_updated_on>
+    </sys_script_include>
+</record_update>

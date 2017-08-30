@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_requested_for_email" label="Requested for email" language="en" table="x_140267_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_requested_for_email</element>
+            <help/>
+            <hint/>
+            <label>Requested for email</label>
+            <language>en</language>
+            <name>x_140267_needit_needit</name>
+            <plural>Requested for emails</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-29 06:50:29</sys_created_on>
+            <sys_id>3c783976dbb04300f37255d0cf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requested for email</sys_name>
+            <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_140267_needit_needit_u_requested_for_email_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-29 06:50:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
