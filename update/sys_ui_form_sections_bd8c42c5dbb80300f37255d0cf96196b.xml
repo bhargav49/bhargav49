@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="bd8c42c5dbb80300f37255d0cf96196b" sys_domain="global" table="x_140267_needit_needit" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>

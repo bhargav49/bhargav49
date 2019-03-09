@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_140267_needit_needit">
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_140267_needit_needit">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -31,6 +30,8 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -52,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-23 18:37:21</sys_created_on>
-        <sys_id>a0b0e105db780300f37255d0cf9619e8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>94d7d586db003300b257dd30cf961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_140267_needit_needit</sys_name>
         <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
-        <sys_update_name>sys_dictionary_x_140267_needit_needit_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-23 21:48:51</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_140267_needit_needit_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-09 02:18:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

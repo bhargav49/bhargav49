@@ -2,21 +2,21 @@
     <sys_ui_view action="INSERT_OR_UPDATE">
         <group/>
         <hidden>false</hidden>
-        <name>User</name>
+        <name>view_name</name>
         <roles/>
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-23 22:10:20</sys_created_on>
-        <sys_id>2c71d249dbb80300f37255d0cf961920</sys_id>
+        <sys_created_on>2019-03-09 06:18:00</sys_created_on>
+        <sys_id>3b8e8e86db803300b257dd30cf961942</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>User</sys_name>
+        <sys_name>View Name</sys_name>
         <sys_package display_value="Needit" source="x_140267_needit">b88fd189dbb40300f37255d0cf9619a5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needit">b88fd189dbb40300f37255d0cf9619a5</sys_scope>
-        <sys_update_name>sys_ui_view_2c71d249dbb80300f37255d0cf961920</sys_update_name>
+        <sys_update_name>sys_ui_view_3b8e8e86db803300b257dd30cf961942</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-23 22:10:20</sys_updated_on>
-        <title>User</title>
+        <sys_updated_on>2019-03-09 06:18:00</sys_updated_on>
+        <title>View Name</title>
         <user/>
     </sys_ui_view>
 </record_update>

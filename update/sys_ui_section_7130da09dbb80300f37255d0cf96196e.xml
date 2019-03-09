@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Statics" section_id="7130da09dbb80300f37255d0cf96196e" sys_domain="global" table="x_140267_needit_needit" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_at</element>
